@@ -1,0 +1,11 @@
+{
+  "name": "bktree",
+  "license": "MIT",
+  "classPath": "src/",
+  "tags": ["cross", "tree", "datastructure", "levenshtein"],
+  "description": "A basic BK tree implementation in Haxe.",
+  "contributors": ["bioruebe"],
+  "releasenote": "Initial release",
+  "version": "1.0.0",
+  "url": "https://github.com/bioruebe/hx-bktree"
+}
